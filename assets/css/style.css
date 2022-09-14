@@ -1,0 +1,255 @@
+
+a:link, a:visited{
+	text-decoration: none;
+	
+}
+.offset-5{
+	margin-left: calc(100% * 5/12);
+}
+.logo{
+	padding-left: 0px;
+	margin-left: -35px;
+}
+li{
+	list-style: none;
+}
+.list-group li{
+	display: inline-block;
+	padding-left: 14px;
+}
+.mb-35{
+	margin-bottom: 35px;
+}
+/* ------------------------------------------------------------- */
+/* header-2 */
+
+nav li{
+	display: inline-block;
+	padding-top: 30px;
+	
+}
+
+nav li{
+	padding-right: 30px;
+	 
+}
+nav li a{
+	color: #609fc7 !important;
+	font-size: 15px;
+	font-weight: 900;
+}
+.btn{
+	margin-top: 30px;
+	outline: hidden;
+}
+/* ---------------------------------------------------------------- */
+/* herosection */
+.heroimage{
+   background-image: url(../img/hero.png);
+   padding: 300px 0;
+   background-repeat: no-repeat;
+   background-size: cover;
+     background-position: center;    
+	 /* position: relative; */
+	 background-attachment: fixed;
+}
+.sub-headding{
+	font-size: 78px;
+	color: #ffffff;
+}
+.para1{
+	margin-top: 40px;
+	text-align: center;
+	color: #a3b1bf;
+	font-size: 24px;
+	padding-left:  17px;
+	padding-right:  17px;
+}
+.absolute{
+	text-align: center;
+	
+}
+.mt-68{
+	margin-top: 70px;
+}
+.btn1{
+	padding: 16px 65px 16px 75px;
+	background-color: #00bc9c;
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	cursor: pointer;
+	border-radius: 5px;
+	border: 5px solid  #00bc9c;
+   
+}
+/* ================================================== */
+/* intouch section */
+.feature{
+	padding: 150px 0 100px;
+}
+.sub-headding1{
+	color: #506a85;
+	text-align: center;
+	font-size: 44px;
+	font-weight: bold;
+	margin-bottom: 41px;
+	text-transform: uppercase;
+}
+.para2{
+	font-size: 22px;
+	color: #73879c;
+	font-weight: 500;
+	text-align: center;
+	line-height: 3;
+	font-style: italic;
+}
+.thambicon i{
+	font-size: 50px;
+	color: blue;
+	
+	
+}
+h5{
+	font-size: 26px;
+	font-weight: bold;
+	color: #506a85;
+	margin-bottom: 40px;
+	text-transform: capatilize;
+
+}
+.para-5{
+	line-height: 1.5;
+	font-size: 16px;
+    color: #73879c;
+	font-style: italic;
+}
+/* =============================================== */
+ /* featurs-2 */
+
+ .features-2{
+	 padding: 130px 0;
+	 background-color: #f2f5f7;
+ }
+ .sub-headding1{
+	 color: #506a85;
+ }
+ .mb-80{
+	 margin-bottom: 80px;
+	 text-align: center;
+ }
+ 
+ .thambnill-1{
+	 text-align: center;
+	
+ }
+ .px{
+	 padding-left: 30px;
+      padding-right: 30px;	 
+ }
+ .input{
+	 text-align: center;
+ }
+ 
+ .dotes{
+	 text-align: center;
+ }
+ /* ========================================================== */
+ .feature-3{
+	 padding: 131px 0 135px;
+ }
+ .form-controll{
+	 text-align: center;
+	 margin-top: 30px;
+ }
+ /* ================================================= */
+ .intouch{
+	 background-color: #2f4052;
+	 padding: 70px 0 70px;
+ }
+ 
+ .logo1{
+
+    padding-left: 0;
+  
+	
+    display: inline-block;
+
+ }
+ .para3{
+	 font-size: 14px;
+	 color: #a3b1bf;
+	 font-weight: 500;
+ }
+ .list-group{
+	 display: inline-block;
+	 font-size: 25px;
+	 color: #a3b1bf;
+	 font-weight: 500;
+	 margin-right: 20px;
+ }
+ h2{
+	 font-weight: 16px;
+	 color: #ffffff;
+	 font-weight: bold;
+ }
+ img{
+	 object-fit: cover;
+	 
+ }
+ .icon i {
+	font-size: 20px !important;
+     color: black;
+ }
+ .form-group{
+	 position: relative;
+ }
+ .form-group::placeholder{
+	color: #a3b1bf;
+	font-size: 14px;
+	font-weight: bold;
+ }
+ .form-controll4{
+	 display: block;
+	 width: 100%;
+	 height: 46px;
+	 padding-left: 20px;
+	 padding-top: 17px;
+	 padding-bottom: 17px;
+    border-radius: 10px;
+     background-color: #7f8b97;
+	 outline: none;
+ }
+ 
+ 
+ .btn-primary{
+	
+    position: absolute;
+    right: 0px;
+    top: 10px;
+    margin-right: 5px;
+
+	background-color: #00bc9c;
+	color: #ffffff;
+	height: 26px;
+	font-size: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+	cursor: pointer;
+	border-radius: 5px;
+	border: 5px solid  #00bc9c;
+	
+ }
+ /* ======================================================== */
+ 
+ .intouch-2{
+	 padding: 40px 0;
+	 background-color: #283645;
+ }
+ 
+ ul li{
+	 display: inline-block;
+	 padding-left: 10px; 
+	 font-size: 16px;
+ }
